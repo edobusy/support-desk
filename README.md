@@ -4,7 +4,7 @@ Support ticket app made with the MERN stack.
 
 ## Online Deployment
 
-Try out the [app]() yourself!
+Try out the [app](https://support-desk-edobusy.herokuapp.com/) yourself!
 
 ## Available Scripts
 
