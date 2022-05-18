@@ -1,6 +1,10 @@
-# Getting Started with Create React App and Redux
+# Support Desk App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Support ticket app made with the MERN stack.
+
+## Online Deployment
+
+Try out the [app]() yourself!
 
 ## Available Scripts
 
